@@ -1,11 +1,11 @@
-# 🧪 Introdução à análise de dados em vigilância em saúde - R
+### 🧪 Introdução à análise de dados em vigilância em saúde - R
 
 Repositório criado para organizar os estudos e práticas do curso de **Análise de dados na vigilância em saúde** com foco em análise de dados epidemiológicos no R. 
 Aqui compartilho os exercícios, scripts e aprendizados obtidos durante a realização do curso.
 
 ---
 
-# 📘 Sobre o Curso
+### 📘 Sobre o Curso
 
 O curso tem como objetivo introduzir o uso da linguagem R na análise de dados em saúde pública e é dividido em 5 módulos.
 
@@ -15,7 +15,7 @@ O curso tem como objetivo introduzir o uso da linguagem R na análise de dados e
 - **Módulo 4**: Análises básicas de dados para vigilância em saúde - Parte I
 - **Módulo 5**: Análises básicas de dados para vigilância em saúde - Parte II
 
-## 📁 Estrutura e organização
+#### 📁 Estrutura e organização
 
 As atividades estão organizadas em **módulos**, e dentro de cada um estão os **scripts** elaborados nas aulas e **arquivos fictícios disponibilizados**.
 São realizadas análises com dados de diferentes sistemas de informação em saúde:
