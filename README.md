@@ -5,7 +5,7 @@ Aqui compartilho os exercícios, scripts e aprendizados obtidos durante a realiz
 
 ---
 
-## 📘 Sobre o Curso
+# 📘 Sobre o Curso
 
 O curso tem como objetivo introduzir o uso da linguagem R na análise de dados em saúde pública e é dividido em 5 módulos.
 
