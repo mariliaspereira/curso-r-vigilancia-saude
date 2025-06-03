@@ -15,13 +15,16 @@ O curso tem como objetivo introduzir o uso da linguagem R na análise de dados e
 - **Módulo 4**: Análises básicas de dados para vigilância em saúde - Parte I
 - **Módulo 5**: Análises básicas de dados para vigilância em saúde - Parte II
 
-#### 📁 Estrutura e organização
+---
+
+### 📁 Estrutura e organização
 
 As atividades estão organizadas em **módulos**, e dentro de cada um estão os **scripts** elaborados nas aulas e **arquivos fictícios disponibilizados**.
 São realizadas análises com dados de diferentes sistemas de informação em saúde:
 - **e-SUS Notifica:** Importação de arquivos `.csv` com `read.csv2()`
 - **SINAN:** Leitura de arquivos `.dbf` com o pacote `foreign`
 - **SIVEP-Gripe:** Importação de planilhas `.xlsx` com o pacote `readxl`
+  
 ---
 
 ## 🧰 Tecnologias e pacotes utilizados
